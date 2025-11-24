@@ -1,0 +1,13 @@
+C:/repos/cmake_test/build/CMakeFiles/cmake_test.dir
+C:/repos/cmake_test/build/CMakeFiles/INSTALL.dir
+C:/repos/cmake_test/build/CMakeFiles/ALL_BUILD.dir
+C:/repos/cmake_test/build/CMakeFiles/ZERO_CHECK.dir
+C:/repos/cmake_test/build/libs/MyLib/CMakeFiles/MyLib.dir
+C:/repos/cmake_test/build/libs/MyLib/CMakeFiles/INSTALL.dir
+C:/repos/cmake_test/build/external/glfw/CMakeFiles/uninstall.dir
+C:/repos/cmake_test/build/external/glfw/CMakeFiles/INSTALL.dir
+C:/repos/cmake_test/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/repos/cmake_test/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/repos/cmake_test/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/repos/cmake_test/build/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/repos/cmake_test/build/external/glfw/docs/CMakeFiles/INSTALL.dir

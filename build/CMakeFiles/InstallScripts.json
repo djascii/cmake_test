@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/repos/cmake_test/build/cmake_install.cmake",
+		"C:/repos/cmake_test/build/libs/MyLib/cmake_install.cmake",
+		"C:/repos/cmake_test/build/external/glfw/cmake_install.cmake",
+		"C:/repos/cmake_test/build/external/glfw/src/cmake_install.cmake",
+		"C:/repos/cmake_test/build/external/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
